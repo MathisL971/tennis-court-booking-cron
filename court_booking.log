@@ -1,0 +1,29 @@
+2025-02-07 16:53:13,515 - INFO - Script started.
+2025-02-07 16:53:13,515 - INFO - ====== WebDriver manager ======
+2025-02-07 16:53:14,522 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-07 16:53:14,599 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-07 16:53:14,674 - INFO - Driver [C:\Users\lefra\.wdm\drivers\chromedriver\win64\132.0.6834.159\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-07 16:53:17,727 - INFO - Logged in successfully.
+2025-02-07 16:53:21,229 - INFO - Navigated to court booking page.
+2025-02-07 16:53:24,261 - INFO - Clicking link 1: [ Sat, Feb 8 ]
+2025-02-07 16:53:28,429 - INFO - Clicking link 2: [ Sun, Feb 9 ]
+2025-02-07 16:53:32,518 - INFO - Clicking link 3: [ Mon, Feb 10 ]
+2025-02-07 16:53:36,405 - INFO - Available: Court Indoor Hard 7, Date Mon, Feb 10, Time 07:00
+2025-02-07 16:53:42,891 - INFO - Finished checking all court dates.
+2025-02-07 16:53:42,892 - INFO - Sending email notification.
+2025-02-07 16:53:45,524 - INFO - Script finished.
+2025-02-07 17:01:42,339 - INFO - Script started.
+2025-02-07 17:04:18,564 - INFO - Script started.
+2025-02-07 17:04:18,564 - INFO - ====== WebDriver manager ======
+2025-02-07 17:04:19,477 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-07 17:04:19,565 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-07 17:04:19,632 - INFO - Driver [C:\Users\lefra\.wdm\drivers\chromedriver\win64\132.0.6834.159\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-07 17:04:23,255 - INFO - Logged in successfully.
+2025-02-07 17:04:26,878 - INFO - Navigated to court booking page.
+2025-02-07 17:04:29,903 - INFO - Clicking link 1: [ Sat, Feb 8 ]
+2025-02-07 17:04:34,012 - INFO - Clicking link 2: [ Sun, Feb 9 ]
+2025-02-07 17:04:38,122 - INFO - Clicking link 3: [ Mon, Feb 10 ]
+2025-02-07 17:04:41,974 - INFO - Available: Court Indoor Hard 7, Date Mon, Feb 10, Time 07:00
+2025-02-07 17:04:48,484 - INFO - Finished checking all court dates.
+2025-02-07 17:04:48,484 - INFO - Sending email notification.
+2025-02-07 17:04:53,439 - INFO - Script finished.
